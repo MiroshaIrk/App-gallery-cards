@@ -1,1 +1,1 @@
-# Gallery-of-cards-with-API [жми сюда]()
+# Gallery of cards with API [жми сюда]()
